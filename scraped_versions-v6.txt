@@ -1,0 +1,76 @@
+SteelSeries GG
+--------------
+GG 97.0.0
+GG 96.0.0
+GG 95.0.0
+v 1.5.0.0
+GG 94.0.0
+GG 93.0.0
+4.16.8
+GG 92.0.0
+GG 91.0.0
+GG 90.0.0
+GG 89.1.0
+GG 89.0.0
+v 1.1.6
+
+Google Drive
+------------
+Version 116.0
+version 26.0
+Version 115.0
+Version 114.0
+Version 113.0
+Version 112.0
+Version 111.0
+Version 110.0
+Version 109.0
+Version 108.0
+Version 107.0
+Version 106.0
+Version 105.0
+Version 104.0
+Version 103.0
+Version 102.0
+Version 101.0
+Version 100.0
+Version 99.0
+Version 98.0
+Version 97.0
+Version 96.0
+Version 95.0
+Version 94.0
+Version 93.0
+Version 92.0
+Version 91.0
+10.15.7
+Version 90.0
+
+Brave Browser
+-------------
+release 1
+
+Microsoft Office
+FAILED TO FETCH: https://en.wikipedia.org/wiki/Microsoft_Office_2010
+
+Dropbox
+-------
+Build 236.3.5770
+Build 235.4.5905
+Build 235.3.5856
+Build 235.3.5830
+Build 234.4.5591
+Build 234.3.5540
+
+Opera Browser
+-------------
+124.0.5691.0
+124.0.5678.0
+124.0.5670.0
+123.0.5669.18
+122.0.5643.92
+
+Netskope Client
+---------------
+No valid versions found.
+
